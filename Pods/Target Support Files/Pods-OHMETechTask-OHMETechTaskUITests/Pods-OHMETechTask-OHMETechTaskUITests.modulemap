@@ -1,0 +1,6 @@
+framework module Pods_OHMETechTask_OHMETechTaskUITests {
+  umbrella header "Pods-OHMETechTask-OHMETechTaskUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

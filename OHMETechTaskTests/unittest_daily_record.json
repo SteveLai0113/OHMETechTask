@@ -1,0 +1,25 @@
+{
+  "date": "2021-09-03T00:00:00.000Z",
+  "items": [
+    {
+      "id": "001",
+      "name": "Light",
+      "consumptionWh": 1
+    },
+    {
+      "id": "002",
+      "name": "Vehiccle",
+      "consumptionWh": 2
+    },
+    {
+      "id": "004",
+      "name": "Electricity",
+      "consumptionWh": 3
+    },
+    {
+      "id": "005",
+      "name": "Electricity",
+      "consumptionWh": 4
+    }
+  ]
+}

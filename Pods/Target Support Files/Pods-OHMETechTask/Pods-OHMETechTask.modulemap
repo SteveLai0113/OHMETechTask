@@ -1,0 +1,6 @@
+framework module Pods_OHMETechTask {
+  umbrella header "Pods-OHMETechTask-umbrella.h"
+
+  export *
+  module * { export * }
+}

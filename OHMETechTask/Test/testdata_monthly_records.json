@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "dailyRecords": [
+        {
+          "date": "2021-09-01T00:00:00.000Z",
+          "items": [
+            {
+              "id": "001",
+              "name": "Light",
+              "consumptionWh": 100891
+            },
+            {
+              "id": "002",
+              "name": "Vehiccle",
+              "consumptionWh": 200891
+            },
+            {
+              "id": "003",
+              "name": "Cooking",
+              "consumptionWh": 54567
+            },
+            {
+              "id": "004",
+              "name": "Electricity",
+              "consumptionWh": 400891
+            },
+            {
+              "id": "005",
+              "name": "Electricity",
+              "consumptionWh": 100891
+            }
+          ]
+        },
+        {
+          "date": "2021-09-02T00:00:00.000Z",
+          "items": [
+            {
+              "id": "002",
+              "name": "Vehiccle",
+              "consumptionWh": 200891
+            },
+            {
+              "id": "003",
+              "name": "Cooking",
+              "consumptionWh": 54567
+            },
+            {
+              "id": "004",
+              "name": "Electricity",
+              "consumptionWh": 400891
+            },
+            {
+              "id": "005",
+              "name": "Electricity",
+              "consumptionWh": 100891
+            }
+          ]
+        },
+        {
+          "date": "2021-09-03T00:00:00.000Z",
+          "items": [
+            {
+              "id": "001",
+              "name": "Light",
+              "consumptionWh": 100891
+            },
+            {
+              "id": "002",
+              "name": "Vehiccle",
+              "consumptionWh": 200891
+            },
+            {
+              "id": "004",
+              "name": "Electricity",
+              "consumptionWh": 400891
+            },
+            {
+              "id": "005",
+              "name": "Electricity",
+              "consumptionWh": 100891
+            }
+          ]
+        },
+        {
+          "date": "2021-09-04T00:00:00.000Z",
+          "items": [
+            {
+              "id": "001",
+              "name": "Light",
+              "consumptionWh": 100891
+            },
+            {
+              "id": "002",
+              "name": "Vehiccle",
+              "consumptionWh": 200891
+            },
+            {
+              "id": "003",
+              "name": "Cooking",
+              "consumptionWh": 54567
+            },
+            {
+              "id": "005",
+              "name": "Electricity",
+              "consumptionWh": 100891
+            }
+          ]
+        },
+        {
+          "date": "2021-09-05T00:00:00.000Z",
+          "items": [
+            {
+              "id": "001",
+              "name": "Light",
+              "consumptionWh": 100891
+            },
+            {
+              "id": "002",
+              "name": "Vehiccle",
+              "consumptionWh": 200891
+            },
+            {
+              "id": "003",
+              "name": "Cooking",
+              "consumptionWh": 54567
+            },
+            {
+              "id": "004",
+              "name": "Electricity",
+              "consumptionWh": 400891
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
